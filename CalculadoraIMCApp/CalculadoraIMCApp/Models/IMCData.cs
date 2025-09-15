@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace CalculadoraIMCApp.Models
 {
-    internal class IMCData
+    public class IMCData
     {
+        public double WeightKg { get; set; }
+        public double HeightMeters { get; set; }
     }
 }
