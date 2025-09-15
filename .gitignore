@@ -1,0 +1,49 @@
+CalculadoraIMCApp/.vs/CalculadoraIMCApp/CopilotIndices/17.14.1091.29919/CodeChunks.db
+# --- Archivos y carpetas generados por compilación ---
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.tlog
+
+# --- Configuración local de Visual Studio ---
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- Archivos de paquetes NuGet ---
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+# --- Configuración de IDEs ---
+*.swp
+*.bak
+*.tmp
+*.old
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Archivos de plataformas (se regeneran) ---
+Platforms/Android/bin/
+Platforms/Android/obj/
+Platforms/iOS/bin/
+Platforms/iOS/obj/
+Platforms/MacCatalyst/bin/
+Platforms/MacCatalyst/obj/
+Platforms/Windows/bin/
+Platforms/Windows/obj/
